@@ -66,4 +66,4 @@ http://stockpage.10jqka.com.cn/600802/funds/#funds_lszjsj
 行业分类   
 http://q.10jqka.com.cn/thshy/detail/code/881112/    
 
-###All data store in Mysql. you can see table scheme in db/table/snow_cashflow.sql
+### All data store in Mysql. you can see table scheme in db/table/snow_cashflow.sql
