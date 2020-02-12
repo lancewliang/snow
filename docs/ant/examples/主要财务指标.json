@@ -1,0 +1,167 @@
+{
+    "list": [
+        {
+            "compcode": "80172054",
+            "reportdate": "20170930",
+            "basiceps": 0,
+            "epsdiluted": null,
+            "epsweighted": null,
+            "naps": 5.147768,
+            "opercashpershare": 0.347275,
+            "peropecashpershare": -0.038926,
+            "netassgrowrate": -0.1316,
+            "dilutedroe": null,
+            "weightedroe": 0.72,
+            "mainbusincgrowrate": 41.8384,
+            "netincgrowrate": -83.1,
+            "totassgrowrate": 0.4025,
+            "salegrossprofitrto": 9.4839,
+            "mainbusiincome": 801028420.04,
+            "mainbusiprofit": -12657217.41,
+            "totprofit": 3100004.41,
+            "netprofit": 530843.92,
+            "totalassets": 985958804.71,
+            "totalliab": 135285666.28,
+            "totsharequi": 849896592.43,
+            "operrevenue": -6426832.61,
+            "invnetcashflow": 70652217.05,
+            "finnetcflow": -6733570.37,
+            "chgexchgchgs": -156615,
+            "cashnetr": 57335199.07,
+            "cashequfinbal": 181981383.45,
+            "symbol": null,
+            "name": null,
+            "totalshare": null
+        },
+        {
+            "compcode": "80172054",
+            "reportdate": "20170630",
+            "basiceps": 0.11,
+            "epsdiluted": null,
+            "epsweighted": null,
+            "naps": 5.25247,
+            "opercashpershare": 0.360883,
+            "peropecashpershare": 0.057505,
+            "netassgrowrate": 1.8996,
+            "dilutedroe": null,
+            "weightedroe": 2.07,
+            "mainbusincgrowrate": 42.7251,
+            "netincgrowrate": 381.2056,
+            "totassgrowrate": 1.6947,
+            "salegrossprofitrto": 9.5996,
+            "mainbusiincome": 545518601.33,
+            "mainbusiprofit": 3091253.47,
+            "totprofit": 18583787.37,
+            "netprofit": 17817080.23,
+            "totalassets": 998648155.06,
+            "totalliab": 130290561.85,
+            "totsharequi": 867182828.75,
+            "operrevenue": 9494124.43,
+            "invnetcashflow": 71983385.37,
+            "finnetcflow": -21733570.87,
+            "chgexchgchgs": -162009.9,
+            "cashnetr": 59581929.03,
+            "cashequfinbal": 184228113.41,
+            "symbol": null,
+            "name": null,
+            "totalshare": null
+        },
+        {
+            "compcode": "80172054",
+            "reportdate": "20170331",
+            "basiceps": 0.09,
+            "epsdiluted": null,
+            "epsweighted": null,
+            "naps": 5.248495,
+            "opercashpershare": 0.418354,
+            "peropecashpershare": -0.058287,
+            "netassgrowrate": 1.8225,
+            "dilutedroe": null,
+            "weightedroe": 1.81,
+            "mainbusincgrowrate": 53.4086,
+            "netincgrowrate": 890.6039,
+            "totassgrowrate": 0.8741,
+            "salegrossprofitrto": 8.3639,
+            "mainbusiincome": 247655172.1,
+            "mainbusiprofit": 1150807.77,
+            "totprofit": 16574259.17,
+            "netprofit": 15509782.27,
+            "totalassets": 990590638.65,
+            "totalliab": 121632140.39,
+            "totsharequi": 866526530.79,
+            "operrevenue": -9623233.12,
+            "invnetcashflow": 73838208.61,
+            "finnetcflow": 4922986.3,
+            "chgexchgchgs": -67685.74,
+            "cashnetr": 69070276.05,
+            "cashequfinbal": 200732527.36,
+            "symbol": null,
+            "name": null,
+            "totalshare": null
+        },
+        {
+            "compcode": "80172054",
+            "reportdate": "20161231",
+            "basiceps": 0.03,
+            "epsdiluted": null,
+            "epsweighted": null,
+            "naps": 5.154553,
+            "opercashpershare": -0.033047,
+            "peropecashpershare": 0.014848,
+            "netassgrowrate": -0.0127,
+            "dilutedroe": null,
+            "weightedroe": 0.57,
+            "mainbusincgrowrate": -4.5818,
+            "netincgrowrate": -48.777,
+            "totassgrowrate": -11.529,
+            "salegrossprofitrto": 10.3649,
+            "mainbusiincome": 818892109.76,
+            "mainbusiprofit": -5099723.82,
+            "totprofit": -2323872.18,
+            "netprofit": 4844653.49,
+            "totalassets": 982006554.73,
+            "totalliab": 127409405.29,
+            "totsharequi": 851016748.52,
+            "operrevenue": 2451514.76,
+            "invnetcashflow": 50413507.83,
+            "finnetcflow": -58984102.88,
+            "chgexchgchgs": 662916.85,
+            "cashnetr": -5456163.44,
+            "cashequfinbal": 124646184.38,
+            "symbol": null,
+            "name": null,
+            "totalshare": null
+        }
+    ]
+}
+
+/**
+主要财务指标mfinancialindex
+
+compcode                 公司代码    *主要财务指标表
+reportdate               报告日期    *主要财务指标表
+basiceps                 基本每股收益  *主要财务指标表
+naps                     每股净资产    *主要财务指标表
+opercashpershare         每股现金流    *主要财务指标表
+peropecashpershare       每股经营性现金流  *主要财务指标表
+weightedroe              净资产收益率(加权)(%)  *主要财务指标表
+mainbusincgrowrate       主营业务收入增长率(%)   *主要财务指标表
+netincgrowrate           净利润增长率(%)   *主要财务指标表
+totassgrowrate           总资产增长率(%)   *主要财务指标表
+salegrossprofitrto       总资产增长率(%)  *主要财务指标表
+mainbusiincome           主营业务收入     *主要财务指标表
+mainbusiprofit           主营业务利润     *主要财务指标表
+totprofit                利润总额         *主要财务指标表
+netprofit                净利润           *主要财务指标表
+totalassets              资产总额         *主要财务指标表  
+totalliab                负债总额         *主要财务指标表
+totsharequi              股东权益合计     *主要财务指标表
+operrevenue              经营活动产生的现金流量净额  *主要财务指标表
+invnetcashflow           投资活动产生的现金流量净额  *主要财务指标表
+finnetcflow              筹资活动产生的现金流量净额  *主要财务指标表
+chgexchgchgs             汇率变动对现金及现金等价物的影响  *主要财务指标表
+cashnetr                 现金及现金等价物净增加额*主要财务指标表 
+cashequfinbal            期末现金及现金等价物余额*主要财务指标表
+
+
+*/

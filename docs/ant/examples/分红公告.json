@@ -1,0 +1,86 @@
+
+{
+    "list": [
+        {
+            "bonusimpdate": "20030723",
+            "bonusyear": "2002",
+            "cur": "美元",
+            "bonusskratio": null,
+            "tranaddskraio": null,
+            "recorddate": "20030731",
+            "exrightdate": "20030729",
+            "cdividend": 0.01208,
+            "fdividendbh": 0,
+            "tranaddsklistdate": null,
+            "bonussklistdate": null,
+            "tranaddskaccday": null,
+            "bonusskaccday": null,
+            "symbol": null,
+            "secode": "2010000936",
+            "divitype": "A",
+            "taxfdividendbh": 0,
+            "taxcdividend": 0.01208,
+            "divibegdate": "20030813",
+            "summarize": "10派0.01208"
+        },
+        {
+            "bonusimpdate": "20020608",
+            "bonusyear": "2001",
+            "cur": "美元",
+            "bonusskratio": null,
+            "tranaddskraio": null,
+            "recorddate": "20020614",
+            "exrightdate": "20020612",
+            "cdividend": 0.02416,
+            "fdividendbh": 0,
+            "tranaddsklistdate": null,
+            "bonussklistdate": null,
+            "tranaddskaccday": null,
+            "bonusskaccday": null,
+            "symbol": null,
+            "secode": "2010000936",
+            "divitype": "A",
+            "taxfdividendbh": 0,
+            "taxcdividend": 0.02416,
+            "divibegdate": "20020702",
+            "summarize": "10派0.02416"
+        },
+        {
+            "bonusimpdate": "20010512",
+            "bonusyear": "2000",
+            "cur": "美元",
+            "bonusskratio": null,
+            "tranaddskraio": null,
+            "recorddate": "20010522",
+            "exrightdate": "20010518",
+            "cdividend": 0.0241,
+            "fdividendbh": 0,
+            "tranaddsklistdate": null,
+            "bonussklistdate": null,
+            "tranaddskaccday": null,
+            "bonusskaccday": null,
+            "symbol": null,
+            "secode": "2010000936",
+            "divitype": "A",
+            "taxfdividendbh": 0,
+            "taxcdividend": 0.0241,
+            "divibegdate": "20010523",
+            "summarize": "10派0.0241"
+        }
+    ]
+}
+
+
+/**
+
+分红公告bonus
+
+bonusimpdate分红公告日期
+bonusyear分红实施年度
+cur派现币种	
+bonusskratio送股比例（10送X）
+tranaddskraio转增股比例（10转增X）
+recorddate股权登记日
+exrightdate除权除息日
+cdividend税前红利（元）
+*/

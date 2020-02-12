@@ -1,0 +1,118 @@
+{
+    "tqCompInfo": {
+        "compname": "上海凌云实业发展股份有限公司",
+        "engname": "Shanghai Lingyun Industries Development Co.,Ltd.",
+        "comptype1": "Z",
+        "comptype2": "Z09",
+        "founddate": "19981228",
+        "orgtype": "民营相对控股企业",
+        "regcapital": 34900,
+        "authcapsk": 0,
+        "chairman": "于爱新",
+        "manager": "连爱勤",
+        "legrep": "于爱新",
+        "bsecretary": "陈新华",
+        "bsecretarytel": "021-68400880",
+        "bsecretaryfax": "021-68401110",
+        "seaffrepr": "荣玫",
+        "seagttel": "021-68400880",
+        "seagtfax": "021-68401110",
+        "seagtemail": "lingyun@elingyun.com",
+        "authreprsbd": null,
+        "leconstant": "方达律师事务所,西蒙斯律师行",
+        "accfirm": "浩华国际会计师事务所,立信会计师事务所（特殊普通合",
+        "regaddr": "上海市浦东新区源深路1088号12楼1201室",
+        "officeaddr": "上海市浦东新区源深路1088号12楼1201室",
+        "officezipcode": "200122",
+        "comptel": "021-68400880",
+        "compfax": "021-68401110",
+        "compemail": "lingyun@elingyun.com",
+        "compurl": "www.elingyun.com",
+        "servicetel": null,
+        "servicefax": null,
+        "compintro": "    上海凌云实业发展股份有限公司(\"本公司\")原名上海凌云幕墙科技股份有限公司,系于1998年12月28日在中华人民共和国(\"中国\")注册成立的股份有限公司。本公司是为发行境内上市外资股(\"B股\")而由凌云科技集团有限责任公司(\"凌云集团\")及湖南振升铝材有限公司(\"振升铝材\")作为主要发起人,联合湖南日升物资贸易有限公司、上海物流产业投资公司及深圳新恒利发展公司进行相关公司重组后设立的。本公司的B股已于2000年7月在上海证券交易所上市交易。",
+        "bizscope": "旅游景点开发、旅游基础设施的建设、综合开发业务;房地产开发及商品房销售、物业管理;相关的咨询、技术服务;境内的实业投资(具体项目另行报批);铝、各类铝制品及不锈钢制品、五金配件、机械模具的生产、加工;各种门窗、幕墙的设计、生产及安装;承接、承包国内外各种工程;建筑工程设备的租赁业务;自营产品的出口和自用设备、材料的进口;销售自产产品。",
+        "majorbiz": "新能源发电。",
+        "bizscale": "9",
+        "compcode": "10000581",
+        "compsname": "凌云实业",
+        "region": "CN310000",
+        "regptcode": "200122",
+        "listdate": 964713600000,
+        "issprice": 0.24,
+        "onlactissqty": null,
+        "actissqty": 16000,
+        "tqCompBoardmapList": [
+            {
+                "keyname": "上海市",
+                "keycode": "CN310000",
+                "keynameacronym": null,
+                "boardcode": "1102",
+                "boardname": "地区代码(省级)"
+            }
+        ],
+        "tqCompIndustryList": [
+            {
+                "level2name": "综合",
+                "level2nameacronym": null,
+                "level2code": "510100",
+                "compcode": null
+            }
+        ]
+    }
+}
+
+/*
+公司简介compinfo
+
+tqCompInfo.compname    公司名称	        *公司简介表
+tqCompInfo.engname     公司英文名称     *公司简介表
+tqCompInfo.founddate   成立日期	        *公司简介表
+tqCompInfo.regcapital  注册资本（万元）	*公司简介表
+tqCompInfo.chairman    董事长	    	*公司简介表
+tqCompInfo.manager     总经理	        *公司简介表
+tqCompInfo.legrep      法人代表	        *公司简介表
+tqCompInfo.bsecretary  董秘	        *公司简介表
+tqCompInfo.majorbiz    主营业务	        *公司简介表
+tqCompInfo.bizscope    经营范围         *公司简介表
+tqCompInfo.compintro   公司简介         *公司简介表
+
+
+董秘电话	021-68400880
+董秘传真	021-68401110
+组织形式	民营相对控股企业
+证券/股证事务代表	荣玫
+证券代表电话	021-68400880
+证券代表传真	021-68401110
+证券代表电子邮箱	lingyun@elingyun.com
+董秘授权代表	-
+法律顾问	方达律师事务所,西蒙斯律师行
+会计师事务所	浩华国际会计师事务所,立信会计师事务所（特殊普通合
+注册地址	上海市浦东新区源深路1088号12楼1201室
+办公地址	上海市浦东新区源深路1088号12楼1201室
+办公地址邮编	200122
+公司电话	021-68400880
+公司传真	021-68401110
+公司电子邮箱	lingyun@elingyun.com
+公司网址	www.elingyun.com
+客服电话	-
+客服传真	-
+
+
+
+*/
+
+/**
+板块表
+tqCompInfo.tqCompBoardmapList.[0].keycode
+tqCompInfo.tqCompBoardmapList.[0].keyname
+tqCompInfo.tqCompBoardmapList.[0].boardcode
+tqCompInfo.tqCompBoardmapList.[0].boardname
+*/
+
+
+/**
+行业表
+tqCompInfo.tqCompIndustryList.[0].level2code 行业代码  *行业表
+tqCompInfo.tqCompIndustryList.[0].level2name 行业名称  *行业表
+*/

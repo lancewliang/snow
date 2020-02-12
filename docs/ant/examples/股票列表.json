@@ -1,0 +1,40 @@
+{
+    "count": {
+        "count": 5469
+    }, 
+    "success": "true", 
+    "stocks": [
+        {
+            "symbol": "SH900957", 
+            "code": "900957", 
+            "name": "凌云B股", 
+            "current": "0.968", 
+            "percent": "-0.1", 
+            "change": "-0.001", 
+            "high": "0.976", 
+            "low": "0.965", 
+            "high52w": "1.154", 
+            "low52w": "0.875", 
+            "marketcapital": "3.37832E8", 
+            "amount": "64074.0", 
+            "type": "11", 
+            "pettm": "116.81", 
+            "volume": "65900", 
+            "hasexist": "false"
+        } 
+    ]
+}
+
+/*
+最新股票列表shares
+stocks.[0].symbol 股票代码  *股票表
+stocks.[0].code 代码        *股票表
+stocks.[0].name  股票名字   *股票表
+stocks.[0].current 当前价
+stocks.[0].percent 涨跌幅
+stocks.[0].change 涨跌额
+stocks.[0].marketcapital 市值
+stocks.[0].pettm 市盈率
+stocks.[0].volume 成交量	
+stocks.[0].amount 成交额
+*/
